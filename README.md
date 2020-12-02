@@ -1,21 +1,27 @@
 Project File Link:
+
 	https://vault.sfu.ca/index.php/s/GUjbU595JcnjWfd
 
 Builds Avaliable for Download:
+
 	MacOS		(Validated on MacOS Catalina 10.15.6)
 	Windows		(Validated on Windows 10 2004)
 
 Unity Game Engine Version Used:
+
 	2019.4.8f1	(https://unity3d.com/unity/qa/lts-releases)
 
 External Libraries Used:	(Included in source file)
+
 	Accord.Math
 	StandaloneFileBrowser
 
 Directory of Source Code:
+
 	/Unity Project/Assets/Code
 
 Note:
+
 	- The builds can be ran directly, without any prerequisites.
 	- Unity projects can be build for WebGL, tvOS, PS4, iOS, Xbox One, and Android.
 
