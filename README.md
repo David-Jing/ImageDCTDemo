@@ -19,9 +19,6 @@ Note:
 	- The builds can be ran directly, without any prerequisites.
 	- Unity projects can be build for WebGL, tvOS, PS4, iOS, Xbox One, and Android.
 
-====================================================================================
-====================================================================================
-
 Method Call Stack:
 
 	- When user inputs a DCT size:
